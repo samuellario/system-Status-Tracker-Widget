@@ -1,4 +1,4 @@
-# VLC System Status Tracker Pro v2.0
+# VLC System Status Tracker
 
 [Castellano](#castellano) | [English](#english)
 
